@@ -1,0 +1,918 @@
+#entity	document	start	end	text	comment
+species:ncbi:10239	cc_onco1	1026	1031	virus	
+species:ncbi:12721	cc_onco1	1049	1052	VIH	
+species:ncbi:160	cc_onco1	1093	1111	Treponema pallidum	
+species:ncbi:10239	cc_onco1	1405	1410	virus	
+species:ncbi:9796	cc_onco1	2545	2552	caballo	
+species:ncbi:1313	cc_onco106	2460	2469	neumococo	
+species:ncbi:445	cc_onco106	2472	2482	Legionella	
+species:ncbi:33090	cc_onco106	2634	2640	planta	
+species:ncbi:33090	cc_onco106	3953	3959	planta	
+species:ncbi:9596	cc_onco11	4761	4764	Pan	
+species:ncbi:9796	cc_onco112	1014	1021	caballo	
+species:ncbi:9796	cc_onco112	2602	2609	caballo	
+species:ncbi:9796	cc_onco112	2705	2712	caballo	
+species:ncbi:10140	cc_onco113	4454	4458	cuya	
+species:ncbi:10140	cc_onco122	7366	7370	cuya	
+species:ncbi:3554	cc_onco124	1377	1381	beta	
+species:ncbi:10239	cc_onco13	1234	1239	virus	
+species:ncbi:3554	cc_onco13	2154	2158	beta	
+species:ncbi:12721	cc_onco132	1894	1897	VIH	
+species:ncbi:10358	cc_onco132	1937	1940	CMV	
+species:ncbi:562	cc_onco134	498	514	Escherichia coli	
+species:ncbi:5478	cc_onco134	1492	1508	Candida glabrata	
+species:ncbi:287	cc_onco134	2900	2922	Pseudomonas aeruginosa	
+species:ncbi:1821	cc_onco142	3538	3549	de Nocardia	
+species:ncbi:5052	cc_onco142	3587	3598	Aspergillus	
+species:ncbi:10358	cc_onco142	3639	3642	CMV	
+species:ncbi:10239	cc_onco142	3645	3650	virus	
+species:ncbi:1313	cc_onco142	3688	3697	neumococo	
+species:ncbi:9822	cc_onco144	1788	1791	Sus	
+species:ncbi:9822	cc_onco144	3633	3636	Sus	
+species:ncbi:9822	cc_onco144	4400	4403	Sus	
+species:ncbi:10140	cc_onco144	4975	4979	cuya	
+species:ncbi:9822	cc_onco144	5308	5311	Sus	
+species:ncbi:10140	cc_onco144	8080	8084	cuya	
+species:ncbi:3554	cc_onco148	2002	2006	beta	
+species:ncbi:33090	cc_onco158	3269	3275	planta	
+species:ncbi:573	cc_onco158	3459	3480	Klebsiella pneumoniae	
+species:ncbi:1496	cc_onco159	4483	4504	Clostridium difficile	
+species:ncbi:11520	cc_onco159	7030	7047	virus influenza B	
+species:ncbi:1282	cc_onco159	7416	7442	Staphylococcus epidermidis	
+species:ncbi:1282	cc_onco159	7958	7984	Staphylococcus epidermidis	
+species:ncbi:3483	cc_onco16	254	263	marihuana	
+species:ncbi:12721	cc_onco16	279	282	VIH	
+species:ncbi:3554	cc_onco16	2079	2083	beta	
+species:ncbi:3554	cc_onco16	2095	2099	beta	
+species:ncbi:12721	cc_onco16	2446	2449	VIH	
+species:ncbi:10358	cc_onco16	2516	2531	citomegalovirus	
+species:ncbi:10358	cc_onco16	2533	2536	CMV	
+species:ncbi:5811	cc_onco16	2563	2580	Toxoplasma gondii	
+species:ncbi:10358	cc_onco16	2596	2599	CMV	
+species:ncbi:5811	cc_onco16	2702	2719	Toxoplasma gondii	
+species:ncbi:4751	cc_onco16	3354	3360	hongos	
+species:ncbi:10358	cc_onco16	3477	3480	CMV	
+species:ncbi:10239	cc_onco16	3533	3538	virus	
+species:ncbi:12721	cc_onco16	4763	4766	VIH	
+species:ncbi:12721	cc_onco16	4942	4945	VIH	
+species:ncbi:10358	cc_onco16	5934	5937	CMV	
+species:ncbi:10239	cc_onco16	8007	8012	virus	
+species:ncbi:562	cc_onco160	4198	4214	Escherichia coli	
+species:ncbi:33090	cc_onco168	1454	1460	planta	
+species:ncbi:10140	cc_onco169	1417	1421	cuya	
+species:ncbi:9844	cc_onco179	5972	5977	llama	
+species:ncbi:33090	cc_onco180	1085	1091	planta	
+species:ncbi:9796	cc_onco183	3089	3096	caballo	
+species:ncbi:10140	cc_onco184	2861	2865	cuya	
+species:ncbi:33090	cc_onco187	1956	1962	planta	
+species:ncbi:33090	cc_onco187	5056	5062	planta	
+species:ncbi:3554	cc_onco188	997	1001	beta	
+species:ncbi:3554	cc_onco188	1995	1999	beta	
+species:ncbi:40324	cc_onco199	2891	2919	Stenotrophomonas maltophilia	
+species:ncbi:33090	cc_onco2	3192	3198	planta	
+species:ncbi:12721	cc_onco20	2292	2295	VIH	
+species:ncbi:3554	cc_onco202	1053	1057	beta	
+species:ncbi:33090	cc_onco202	4716	4722	planta	
+species:ncbi:469	cc_onco202	4837	4850	Acinetobacter	
+species:ncbi:10239	cc_onco203	1564	1569	virus	
+species:ncbi:1496	cc_onco204	4414	4435	Clostridium difficile	
+species:ncbi:121222	cc_onco209	2035	2043	pedículo	
+species:ncbi:10140	cc_onco212	1384	1388	cuya	
+species:ncbi:1313	cc_onco212	3934	3943	neumococo	
+species:ncbi:10358	cc_onco212	4804	4819	citomegalovirus	group: 0, valid: true
+species:ncbi:10239	cc_onco212	4821	4826	virus	group: 0, valid: true
+species:ncbi:4090	cc_onco212	6816	6822	tabaco	
+species:ncbi:3554	cc_onco214	892	896	beta	
+species:ncbi:33090	cc_onco217	3476	3482	planta	
+species:ncbi:9844	cc_onco218	859	864	llama	
+species:ncbi:33090	cc_onco218	1276	1282	planta	
+species:ncbi:33090	cc_onco218	1505	1511	planta	
+species:ncbi:33090	cc_onco22	652	658	planta	
+species:ncbi:10140	cc_onco22	3814	3818	cuya	
+species:ncbi:10358	cc_onco221	3095	3098	CMV	
+species:ncbi:10239	cc_onco221	3159	3164	virus	
+species:ncbi:10358	cc_onco221	3191	3194	CMV	
+species:ncbi:469	cc_onco221	3285	3298	Acinetobacter	
+species:ncbi:10239	cc_onco221	3326	3331	virus	
+species:ncbi:5810	cc_onco221	3348	3358	Toxoplasma	group: 0, valid: true
+species:ncbi:5658	cc_onco221	3360	3370	Leishmania	group: 0, valid: true
+species:ncbi:12721	cc_onco221	3373	3376	VIH	
+species:ncbi:2	cc_onco221	3433	3442	bacterias	
+species:ncbi:10239	cc_onco221	3467	3472	virus	
+species:ncbi:469	cc_onco221	4090	4103	Acinetobacter	
+species:ncbi:10358	cc_onco221	4139	4154	citomegalovirus	
+species:ncbi:10358	cc_onco221	4156	4159	CMV	
+species:ncbi:469	cc_onco221	4466	4479	Acinetobacter	
+species:ncbi:10358	cc_onco221	4515	4518	CMV	
+species:ncbi:5810	cc_onco221	4557	4567	Toxoplasma	group: 1, valid: true
+species:ncbi:5658	cc_onco221	4569	4579	Leishmania	group: 1, valid: true
+species:ncbi:12721	cc_onco221	4582	4585	VIH	
+species:ncbi:10358	cc_onco221	5586	5589	CMV	
+species:ncbi:469	cc_onco221	5610	5623	Acinetobacter	
+species:ncbi:10358	cc_onco221	5943	5946	CMV	
+species:ncbi:10358	cc_onco221	6367	6370	CMV	
+species:ncbi:10358	cc_onco221	6583	6586	CMV	
+species:ncbi:10358	cc_onco221	6778	6781	CMV	
+species:ncbi:562	cc_onco223	110	126	Escherichia coli	
+species:ncbi:10239	cc_onco225	3543	3548	virus	
+species:ncbi:33090	cc_onco227	1501	1507	planta	
+species:ncbi:9822	cc_onco229	3931	3934	Sus	
+species:ncbi:33090	cc_onco231	3072	3078	planta	
+species:ncbi:21024	cc_onco232	2928	2932	haya	
+species:ncbi:10239	cc_onco235	4380	4385	virus	
+species:ncbi:10239	cc_onco235	4413	4418	virus	
+species:ncbi:4753	cc_onco236	3364	3376	Pneumocystis	
+species:ncbi:4754	cc_onco236	5039	5059	Pneumocystis carinii	
+species:ncbi:10140	cc_onco242	82	86	cuya	
+species:ncbi:37296	cc_onco242	3878	3883	HHV-8	
+species:ncbi:4679	cc_onco242	3977	3984	cebolla	
+species:ncbi:12721	cc_onco242	6778	6781	VIH	
+species:ncbi:10239	cc_onco242	6809	6814	virus	
+species:ncbi:12721	cc_onco248	3936	3939	VIH	
+species:ncbi:10239	cc_onco248	4087	4092	virus	
+species:ncbi:446	cc_onco25	2051	2073	Legionella pneumophila	
+species:ncbi:33090	cc_onco250	2755	2761	planta	
+species:ncbi:1903720	cc_onco251	3562	3569	bacilos	
+species:ncbi:1639	cc_onco251	3586	3608	Listeria monocytogenes	
+species:ncbi:5206	cc_onco251	3643	3653	criptococo	
+species:ncbi:10239	cc_onco251	3741	3746	virus	
+species:ncbi:33090	cc_onco251	3855	3861	planta	
+species:ncbi:1639	cc_onco251	3938	3960	Listeria monocytogenes	
+species:ncbi:12721	cc_onco251	4053	4056	VIH	
+species:ncbi:10358	cc_onco251	4077	4080	CMV	
+species:ncbi:83558	cc_onco251	4118	4142	Chlamydophila pneumoniae	
+species:ncbi:5476	cc_onco251	4230	4246	Candida albicans	
+species:ncbi:1903720	cc_onco251	5492	5499	bacilos	
+species:ncbi:1639	cc_onco251	5558	5580	Listeria monocytogenes	
+species:ncbi:1639	cc_onco251	6180	6202	Listeria monocytogenes	
+species:ncbi:33090	cc_onco251	6266	6272	planta	
+species:ncbi:33090	cc_onco251	6580	6586	planta	
+species:ncbi:33090	cc_onco254	1722	1728	planta	
+species:ncbi:445	cc_onco255	2856	2866	Legionella	
+species:ncbi:1313	cc_onco255	2869	2878	neumococo	
+species:ncbi:42068	cc_onco255	2950	2972	Pneumocystis jirovecii	group: 0, valid: true
+species:ncbi:10358	cc_onco255	2974	2977	CMV	group: 0, valid: true
+species:ncbi:2093	cc_onco255	2999	3009	Mycoplasma	group: 1, valid: true
+species:ncbi:777	cc_onco255	3011	3028	Coxiella burnetii	group: 1, valid: true
+species:ncbi:10239	cc_onco255	3048	3053	virus	
+species:ncbi:10140	cc_onco257	4829	4833	cuya	
+species:ncbi:138	cc_onco259	2444	2452	Borrelia	
+species:ncbi:12059	cc_onco259	2522	2533	Enterovirus	
+species:ncbi:3554	cc_onco26	1089	1093	beta	
+species:ncbi:3554	cc_onco26	1130	1134	beta	
+species:ncbi:3554	cc_onco26	2834	2838	beta	
+species:ncbi:12721	cc_onco264	2425	2428	VIH	
+species:ncbi:33090	cc_onco269	2152	2158	planta	
+species:ncbi:10239	cc_onco271	971	976	virus	
+species:ncbi:12721	cc_onco271	1000	1036	virus de la inmunodeficiencia humana	
+species:ncbi:12721	cc_onco275	165	168	VIH	
+species:ncbi:4754	cc_onco275	333	353	Pneumocystis carinii	
+species:ncbi:12721	cc_onco275	4043	4046	VIH	
+species:ncbi:33090	cc_onco276	798	804	planta	
+species:ncbi:33090	cc_onco278	1815	1821	planta	
+species:ncbi:445	cc_onco278	3912	3922	Legionella	
+species:ncbi:10239	cc_onco278	3931	3936	virus	
+species:ncbi:47187	cc_onco279	1134	1149	piel de naranja	
+species:ncbi:12721	cc_onco28	1990	1993	VIH	
+species:ncbi:33090	cc_onco285	1688	1694	planta	
+species:ncbi:33090	cc_onco285	2317	2323	planta	
+species:ncbi:2	cc_onco290	1540	1548	bacteria	
+species:ncbi:33090	cc_onco290	1692	1698	planta	
+species:ncbi:1496	cc_onco291	5371	5392	Clostridium difficile	
+species:ncbi:9822	cc_onco292	266	269	Sus	
+species:ncbi:6202	cc_onco298	2303	2308	tenia	
+species:ncbi:10239	cc_onco3	4063	4068	virus	
+species:ncbi:33090	cc_onco3	4944	4950	planta	
+species:ncbi:33090	cc_onco3	4980	4986	planta	
+species:ncbi:4753	cc_onco3	5476	5488	Pneumocystis	
+species:ncbi:10358	cc_onco3	5812	5815	CMV	
+species:ncbi:5052	cc_onco3	5875	5886	Aspergillus	
+species:ncbi:4753	cc_onco3	5892	5904	Pneumocystis	
+species:ncbi:49669	cc_onco301	896	901	Paris	
+species:ncbi:49669	cc_onco301	1756	1761	Paris	
+species:ncbi:562	cc_onco304	4776	4792	Escherichia coli	
+species:ncbi:4090	cc_onco305	212	218	tabaco	
+species:ncbi:3554	cc_onco306	2267	2271	beta	
+species:ncbi:1654	cc_onco31	6458	6469	Actinomyces	
+species:ncbi:562	cc_onco31	6486	6502	Escherichia coli	
+species:ncbi:10140	cc_onco310	3063	3067	cuya	
+species:ncbi:9596	cc_onco311	1068	1071	Pan	
+species:ncbi:1817	cc_onco312	1953	1961	Nocardia	
+species:ncbi:3483	cc_onco314	135	144	marihuana	
+species:ncbi:50557	cc_onco315	2410	2417	insecto	
+species:ncbi:4751	cc_onco317	4042	4048	hongos	
+species:ncbi:33090	cc_onco32	2455	2461	planta	
+species:ncbi:1903720	cc_onco325	4160	4166	bacilo	
+species:ncbi:487	cc_onco325	4448	4459	meningococo	
+species:ncbi:1637	cc_onco325	4598	4606	Listeria	
+species:ncbi:1637	cc_onco325	4802	4810	Listeria	
+species:ncbi:33090	cc_onco33	6872	6878	planta	
+species:ncbi:168345	cc_onco331	3195	3205	heliotropo	
+species:ncbi:33090	cc_onco333	4185	4191	planta	
+species:ncbi:2	cc_onco336	5752	5761	bacterias	
+species:ncbi:4751	cc_onco336	5779	5785	hongos	
+species:ncbi:10239	cc_onco336	5831	5836	virus	
+species:ncbi:33090	cc_onco338	4555	4561	planta	
+species:ncbi:33090	cc_onco34	3218	3224	planta	
+species:ncbi:33090	cc_onco34	3717	3723	planta	
+species:ncbi:10239	cc_onco340	2485	2490	virus	
+species:ncbi:121222	cc_onco341	1862	1870	pedículo	
+species:ncbi:570	cc_onco341	5334	5344	Klebsiella	
+species:ncbi:4090	cc_onco345	106	112	tabaco	
+species:ncbi:138	cc_onco347	4691	4699	Borrelia	group: 0, valid: true
+species:ncbi:10358	cc_onco347	4701	4704	CMV	group: 0, valid: true
+species:ncbi:10239	cc_onco349	271	276	virus	
+species:ncbi:3554	cc_onco352	3220	3224	beta	
+species:ncbi:33090	cc_onco357	744	750	planta	
+species:ncbi:33090	cc_onco357	1181	1187	planta	
+species:ncbi:286	cc_onco36	2618	2629	Pseudomonas	
+species:ncbi:3554	cc_onco365	856	860	beta	
+species:ncbi:21024	cc_onco367	5576	5580	haya	
+species:ncbi:10140	cc_onco370	4924	4928	cuya	
+species:ncbi:9606	cc_onco371	193	199	hombre	
+species:ncbi:9606	cc_onco371	2079	2085	hombre	
+species:ncbi:4751	cc_onco374	5438	5445	fúngico	
+species:ncbi:33090	cc_onco375	3345	3351	planta	
+species:ncbi:33090	cc_onco376	1257	1263	planta	
+species:ncbi:33090	cc_onco376	1891	1897	planta	
+species:ncbi:33090	cc_onco377	3375	3381	planta	
+species:ncbi:12721	cc_onco377	5483	5486	VIH	
+species:ncbi:9844	cc_onco377	7115	7120	llama	
+species:ncbi:724	cc_onco377	9728	9739	Haemophilus	
+species:ncbi:10407	cc_onco38	105	128	virus de la hepatitis B	
+species:ncbi:5480	cc_onco380	5651	5671	Candida parapsilosis	
+species:ncbi:1279	cc_onco380	5956	5970	Staphylococcus	
+species:ncbi:33090	cc_onco382	3322	3328	planta	
+species:ncbi:10239	cc_onco384	6235	6240	virus	
+species:ncbi:12721	cc_onco384	6256	6259	VIH	
+species:ncbi:10239	cc_onco384	6494	6499	virus	
+species:ncbi:12721	cc_onco384	6509	6512	VIH	
+species:ncbi:4090	cc_onco385	77	83	tabaco	
+species:ncbi:33090	cc_onco385	3253	3259	planta	
+species:ncbi:12721	cc_onco387	1192	1195	VIH	
+species:ncbi:168345	cc_onco388	1804	1814	heliotropo	
+species:ncbi:33090	cc_onco391	2476	2482	planta	
+species:ncbi:12059	cc_onco391	3367	3378	Enterovirus	
+species:ncbi:33090	cc_onco391	4437	4443	planta	
+species:ncbi:10239	cc_onco392	464	469	virus	
+species:ncbi:1496	cc_onco393	2615	2636	Clostridium difficile	
+species:ncbi:1485	cc_onco393	3312	3323	Clostridium	
+species:ncbi:33090	cc_onco397	2045	2051	planta	
+species:ncbi:777	cc_onco397	3414	3431	Coxiella burnetii	group: 0, valid: true
+species:ncbi:38323	cc_onco397	3433	3452	Bartonella henselae	group: 0, valid: true
+species:ncbi:139	cc_onco397	3454	3474	Borrelia burgdorferi	group: 0, valid: true
+species:ncbi:5759	cc_onco397	3476	3497	Entamoeba histolytica	group: 0, valid: true
+species:ncbi:5811	cc_onco397	3499	3516	Toxoplasma gondii	group: 0, valid: true
+species:ncbi:10239	cc_onco397	3518	3523	virus	group: 0, valid: true
+species:ncbi:10358	cc_onco397	3546	3561	citomegalovirus	group: 1, valid: true
+species:ncbi:10239	cc_onco397	3563	3568	virus	group: 1, valid: true
+species:ncbi:10239	cc_onco397	3586	3591	virus	
+species:ncbi:1506574	cc_onco397	3610	3620	parvovirus	
+species:ncbi:234	cc_onco397	3705	3713	Brucella	
+species:ncbi:1773?0.9451037323384932|species:ncbi:77643?0.05489626766150678	cc_onco398	1962	1988	Mycobacterium tuberculosis	
+species:ncbi:10239	cc_onco401	338	343	virus	
+species:ncbi:9844	cc_onco402	2077	2082	llama	
+species:ncbi:10239	cc_onco402	3491	3496	virus	
+species:ncbi:10358	cc_onco403	2775	2778	CMV	
+species:ncbi:10358	cc_onco403	2808	2811	CMV	
+species:ncbi:1313	cc_onco405	5494	5518	Streptococcus pneumoniae	
+species:ncbi:10140	cc_onco406	299	303	cuya	
+species:ncbi:33090	cc_onco406	1778	1784	planta	
+species:ncbi:10140	cc_onco406	1937	1941	cuya	
+species:ncbi:10140	cc_onco406	3028	3032	cuya	
+species:ncbi:33090	cc_onco410	2974	2980	planta	
+species:ncbi:10140	cc_onco412	57	61	cuya	
+species:ncbi:47187	cc_onco415	387	402	piel de naranja	
+species:ncbi:121222	cc_onco415	2156	2164	pedículo	
+species:ncbi:121222	cc_onco415	4224	4232	pedículo	
+species:ncbi:21024	cc_onco417	1014	1018	haya	
+species:ncbi:197	cc_onco417	2087	2107	Campylobacter jejuni	
+species:ncbi:197	cc_onco417	3911	3931	Campylobacter jejuni	
+species:ncbi:197	cc_onco417	4500	4520	Campylobacter jejuni	
+species:ncbi:10407	cc_onco419	450	473	virus de la hepatitis B	
+species:ncbi:210	cc_onco419	2084	2103	Helicobacter pylori	
+species:ncbi:10239	cc_onco419	2178	2183	virus	
+species:ncbi:47187	cc_onco42	1806	1821	piel de naranja	
+species:ncbi:33090	cc_onco42	4900	4906	planta	
+species:ncbi:33090	cc_onco42	6732	6738	planta	
+species:ncbi:33090	cc_onco42	8582	8588	planta	
+species:ncbi:33090	cc_onco420	1221	1227	planta	
+species:ncbi:2	cc_onco421	1319	1328	bacterias	
+species:ncbi:4751	cc_onco421	1331	1337	hongos	
+species:ncbi:12721	cc_onco421	1387	1390	VIH	
+species:ncbi:5598	cc_onco421	1615	1625	Alternaria	
+species:ncbi:12721	cc_onco421	1644	1647	VIH	
+species:ncbi:33090	cc_onco422	2563	2569	planta	
+species:ncbi:1773?0.9451037323384932|species:ncbi:77643?0.05489626766150678	cc_onco422	4251	4277	Mycobacterium tuberculosis	
+species:ncbi:33090	cc_onco422	4746	4752	planta	
+species:ncbi:33090	cc_onco429	2690	2696	planta	
+species:ncbi:10140	cc_onco43	3012	3016	cuya	
+species:ncbi:9606	cc_onco432	1149	1155	humano	
+species:ncbi:9844	cc_onco432	5676	5681	llama	
+species:ncbi:33090	cc_onco433	6102	6108	planta	
+species:ncbi:33090	cc_onco434	2190	2196	planta	
+species:ncbi:33090	cc_onco435	2844	2850	planta	
+species:ncbi:33090	cc_onco436	2100	2106	planta	
+species:ncbi:33090	cc_onco436	2337	2343	planta	
+species:ncbi:10566	cc_onco437	2306	2309	HPV	
+species:ncbi:33090	cc_onco437	3075	3081	planta	
+species:ncbi:33090	cc_onco437	3444	3450	planta	
+species:ncbi:9844	cc_onco437	4143	4148	llama	
+species:ncbi:10239	cc_onco438	78	83	virus	
+species:ncbi:426484	cc_onco439	1839	1843	lisa	
+species:ncbi:9596	cc_onco440	2430	2433	Pan	
+species:ncbi:10140	cc_onco441	825	829	cuya	
+species:ncbi:10140	cc_onco442	1287	1291	cuya	
+species:ncbi:10358	cc_onco442	4349	4352	CMV	
+species:ncbi:33090	cc_onco445	2333	2339	planta	
+species:ncbi:33090	cc_onco448	1649	1655	planta	
+species:ncbi:33090	cc_onco45	2895	2901	planta	
+species:ncbi:29388	cc_onco45	5285	5307	Staphylococcus capitis	
+species:ncbi:1279	cc_onco45	6513	6527	Staphylococcus	
+species:ncbi:1314	cc_onco450	4659	4681	Streptococcus pyogenes	
+species:ncbi:3554	cc_onco453	768	772	beta	
+species:ncbi:10239	cc_onco453	2751	2756	virus	
+species:ncbi:12721	cc_onco454	393	396	VIH	
+species:ncbi:12721	cc_onco454	1140	1143	VIH	
+species:ncbi:12721	cc_onco454	1172	1175	VIH	
+species:ncbi:160	cc_onco454	1352	1370	Treponema pallidum	group: 0, valid: true
+species:ncbi:10358	cc_onco454	1372	1375	CMV	group: 0, valid: true
+species:ncbi:10239	cc_onco454	1417	1422	virus	
+species:ncbi:12721	cc_onco454	1728	1731	VIH	
+species:ncbi:10239	cc_onco454	2016	2021	virus	
+species:ncbi:140311	cc_onco454	2581	2587	cereza	
+species:ncbi:12721	cc_onco454	3133	3136	VIH	
+species:ncbi:21024	cc_onco456	916	920	haya	
+species:ncbi:10239	cc_onco456	6457	6462	virus	
+species:ncbi:33090	cc_onco464	1327	1333	planta	
+species:ncbi:10239	cc_onco464	2846	2851	virus	
+species:ncbi:10239	cc_onco464	3074	3079	virus	
+species:ncbi:12721	cc_onco464	3367	3370	VIH	
+species:ncbi:12721	cc_onco464	4536	4539	VIH	
+species:ncbi:139	cc_onco467	5363	5383	Borrelia burgdorferi	
+species:ncbi:139	cc_onco467	5400	5420	Borrelia burgdorferi	
+species:ncbi:10358	cc_onco467	5446	5461	citomegalovirus	
+species:ncbi:10358	cc_onco467	5487	5502	citomegalovirus	
+species:ncbi:4751	cc_onco467	5750	5756	hongos	
+species:ncbi:33090	cc_onco467	6023	6029	planta	
+species:ncbi:33090	cc_onco467	6496	6502	planta	
+species:ncbi:2	cc_onco469	2446	2455	bacterias	
+species:ncbi:160	cc_onco47	2042	2060	Treponema pallidum	
+species:ncbi:12721	cc_onco47	2183	2186	VIH	
+species:ncbi:33090	cc_onco471	3409	3415	planta	
+species:ncbi:2	cc_onco476	2477	2486	bacterias	
+species:ncbi:4751	cc_onco476	2489	2495	hongos	
+species:ncbi:426484	cc_onco478	845	849	lisa	
+species:ncbi:546	cc_onco479	2945	2965	Citrobacter freundii	
+species:ncbi:5476	cc_onco479	2968	2984	Candida albicans	
+species:ncbi:33090	cc_onco479	3251	3257	planta	
+species:ncbi:33090	cc_onco479	5666	5672	planta	
+species:ncbi:33090	cc_onco479	5794	5800	planta	
+species:ncbi:4090	cc_onco480	227	233	tabaco	
+species:ncbi:1496	cc_onco485	3864	3885	Clostridium difficile	
+species:ncbi:33090	cc_onco486	2947	2953	planta	
+species:ncbi:33090	cc_onco486	3111	3117	planta	
+species:ncbi:1282	cc_onco488	4688	4714	Staphylococcus epidermidis	
+species:ncbi:9796	cc_onco489	2719	2726	caballo	
+species:ncbi:10407	cc_onco501	238	261	virus de la hepatitis B	
+species:ncbi:10239	cc_onco501	320	325	virus	
+species:ncbi:33090	cc_onco501	1252	1258	planta	
+species:ncbi:10239	cc_onco503	365	370	virus	
+species:ncbi:33090	cc_onco503	5746	5752	planta	
+species:ncbi:33090	cc_onco505	1799	1805	planta	
+species:ncbi:10239	cc_onco505	2132	2137	virus	
+species:ncbi:1506574	cc_onco505	2169	2179	parvovirus	
+species:ncbi:10239	cc_onco505	2544	2550	vírico	
+species:ncbi:10358	cc_onco506	2369	2384	citomegalovirus	
+species:ncbi:445	cc_onco506	2409	2419	Legionella	
+species:ncbi:83558	cc_onco506	2460	2480	Chlamydia pneumoniae	
+species:ncbi:33090	cc_onco506	3622	3628	planta	
+species:ncbi:3554	cc_onco511	564	568	beta	
+species:ncbi:33090	cc_onco512	5293	5299	planta	
+species:ncbi:4090	cc_onco514	350	356	tabaco	
+species:ncbi:10140	cc_onco514	4247	4251	cuya	
+species:ncbi:33090	cc_onco514	4907	4913	planta	
+species:ncbi:33090	cc_onco517	2396	2402	planta	
+species:ncbi:33090	cc_onco517	2464	2470	planta	
+species:ncbi:3554	cc_onco521	1290	1294	beta	
+species:ncbi:37296	cc_onco526	1347	1352	HHV-8	
+species:ncbi:12721	cc_onco526	1911	1914	VIH	
+species:ncbi:12721	cc_onco526	1917	1920	VIH	
+species:ncbi:10140	cc_onco528	2749	2753	cuya	
+species:ncbi:9844	cc_onco529	3005	3010	llama	
+species:ncbi:10239	cc_onco53	9426	9431	virus	
+species:ncbi:21024	cc_onco530	3705	3709	haya	
+species:ncbi:10140	cc_onco533	3583	3587	cuya	
+species:ncbi:9796	cc_onco536	2563	2570	caballo	
+species:ncbi:42068	cc_onco536	3183	3205	Pneumocystis jirovecii	
+species:ncbi:9796	cc_onco536	3631	3638	caballo	
+species:ncbi:33090	cc_onco537	3972	3978	planta	
+species:ncbi:33090	cc_onco541	3210	3216	planta	
+species:ncbi:33090	cc_onco541	3904	3910	planta	
+species:ncbi:1313	cc_onco543	2825	2834	neumococo	group: 0, valid: true
+species:ncbi:445	cc_onco543	2836	2846	Legionella	group: 0, valid: true
+species:ncbi:42068	cc_onco543	3191	3213	Pneumocystis jirovecii	
+species:ncbi:746128	cc_onco543	3834	3855	Aspergillus fumigatus	
+species:ncbi:10358	cc_onco543	3890	3905	citomegalovirus	
+species:ncbi:5052	cc_onco543	3908	3919	Aspergillus	
+species:ncbi:42068	cc_onco543	3944	3966	Pneumocystis jirovecii	
+species:ncbi:33090	cc_onco545	4237	4243	planta	
+species:ncbi:33090	cc_onco545	4445	4451	planta	
+species:ncbi:33090	cc_onco545	6557	6563	planta	
+species:ncbi:33090	cc_onco548	3956	3962	planta	
+species:ncbi:33090	cc_onco548	4971	4977	planta	
+species:ncbi:121222	cc_onco55	3728	3736	pedículo	
+species:ncbi:11103	cc_onco550	729	752	virus de la hepatitis C	
+species:ncbi:33090	cc_onco550	4083	4089	planta	
+species:ncbi:33090	cc_onco550	5184	5190	planta	
+species:ncbi:33090	cc_onco550	5825	5831	planta	
+species:ncbi:10566	cc_onco551	1287	1312	virus del papiloma humano	
+species:ncbi:10566	cc_onco551	1314	1317	VPH	abbrev main (virus del papiloma humano)
+species:ncbi:10566	cc_onco551	1918	1921	VPH	abbrev sec
+species:ncbi:3554	cc_onco553	2729	2733	beta	
+species:ncbi:9844	cc_onco555	4061	4066	llama	
+species:ncbi:4090	cc_onco557	158	164	tabaco	
+species:ncbi:4751	cc_onco558	3437	3443	hongos	
+species:ncbi:5052	cc_onco558	3481	3495	de Aspergillus	
+species:ncbi:10358	cc_onco558	3501	3516	citomegalovirus	
+species:ncbi:9844	cc_onco559	3449	3454	llama	
+species:ncbi:33090	cc_onco559	4175	4181	planta	
+species:ncbi:3554	cc_onco559	11458	11462	beta	
+species:ncbi:3554	cc_onco559	11476	11480	beta	
+species:ncbi:3554	cc_onco559	11494	11498	beta	
+species:ncbi:3554	cc_onco559	11509	11513	beta	
+species:ncbi:9844	cc_onco562	5930	5935	llama	
+species:ncbi:10239	cc_onco564	816	821	virus	
+species:ncbi:12721	cc_onco564	851	854	VIH	
+species:ncbi:10239	cc_onco564	857	862	virus	
+species:ncbi:10239	cc_onco564	885	890	virus	
+species:ncbi:10239	cc_onco564	913	918	virus	
+species:ncbi:10566	cc_onco564	1127	1155	de virus del papiloma humano	
+species:ncbi:121222	cc_onco567	4915	4923	pedículo	
+species:ncbi:12721	cc_onco568	1123	1126	VIH	
+species:ncbi:12721	cc_onco568	1151	1154	VIH	
+species:ncbi:5759	cc_onco568	1296	1317	Entamoeba histolytica	
+species:ncbi:12721	cc_onco568	1563	1566	VIH	
+species:ncbi:10239	cc_onco568	2354	2359	virus	
+species:ncbi:12721	cc_onco568	3756	3759	VIH	
+species:ncbi:10239	cc_onco568	3769	3774	virus	
+species:ncbi:12721	cc_onco569	934	937	VIH	
+species:ncbi:10239	cc_onco569	946	951	virus	
+species:ncbi:9796	cc_onco570	4437	4444	caballo	
+species:ncbi:33090	cc_onco570	5767	5773	planta	
+species:ncbi:9796	cc_onco570	6363	6370	caballo	
+species:ncbi:562	cc_onco571	3638	3654	Escherichia coli	
+species:ncbi:2	cc_onco574	2618	2627	bacterias	
+species:ncbi:548	cc_onco574	2629	2651	Enterobacter aerogenes	
+species:ncbi:584	cc_onco574	2654	2671	Proteus mirabilis	
+species:ncbi:33090	cc_onco574	3314	3320	planta	
+species:ncbi:33090	cc_onco575	2794	2800	planta	
+species:ncbi:33090	cc_onco579	2805	2811	planta	
+species:ncbi:9844	cc_onco580	479	484	llama	
+species:ncbi:21024	cc_onco584	5299	5303	haya	
+species:ncbi:33090	cc_onco585	1707	1713	planta	
+species:ncbi:10239	cc_onco585	2397	2402	virus	
+species:ncbi:10239	cc_onco585	2416	2421	virus	
+species:ncbi:12721	cc_onco585	2435	2438	VIH	group: 0, valid: true
+species:ncbi:10239	cc_onco585	2440	2445	virus	group: 0, valid: true
+species:ncbi:5811	cc_onco585	2460	2477	Toxoplasma gondii	
+species:ncbi:10358	cc_onco585	3339	3354	citomegalovirus	group: 1, valid: true
+species:ncbi:5811	cc_onco585	3356	3373	Toxoplasma gondii	group: 1, valid: true
+species:ncbi:1506574	cc_onco585	3375	3385	parvovirus	group: 1, valid: true
+species:ncbi:5207	cc_onco585	3408	3431	Cryptococcus neoformans	group: 2, valid: true
+species:ncbi:10239	cc_onco585	3433	3438	virus	group: 2, valid: true
+species:ncbi:12721	cc_onco585	3454	3457	VIH	
+species:ncbi:52132	cc_onco585	4601	4612	de Brucella	
+species:ncbi:590	cc_onco585	4618	4628	Salmonella	
+species:ncbi:777	cc_onco585	4634	4651	Coxiella burnetii	group: 3, valid: true
+species:ncbi:773	cc_onco585	4653	4663	Bartonella	group: 3, valid: true
+species:ncbi:810	cc_onco585	4669	4678	Chlamydia	
+species:ncbi:2093	cc_onco585	4684	4694	Mycoplasma	
+species:ncbi:160	cc_onco585	4700	4718	Treponema pallidum	
+species:ncbi:5811	cc_onco585	4721	4738	Toxoplasma gondii	
+species:ncbi:4090	cc_onco587	200	206	tabaco	
+species:ncbi:10239	cc_onco587	3943	3948	virus	
+species:ncbi:12721	cc_onco595	4687	4690	VIH	
+species:ncbi:10358	cc_onco595	4738	4741	CMV	
+species:ncbi:11308	cc_onco599	1983	2000	virus de la gripe	
+species:ncbi:33090	cc_onco599	5027	5033	planta	
+species:ncbi:562	cc_onco608	2539	2555	Escherichia coli	
+species:ncbi:33090	cc_onco608	2879	2885	planta	
+species:ncbi:33090	cc_onco613	2630	2636	planta	
+species:ncbi:4090	cc_onco614	654	660	tabaco	
+species:ncbi:33090	cc_onco615	5344	5350	planta	
+species:ncbi:10358	cc_onco618	1234	1249	citomegalovirus	
+species:ncbi:813	cc_onco618	1412	1433	Chlamydia trachomatis	
+species:ncbi:12092	cc_onco618	1884	1901	virus hepatitis A	
+species:ncbi:12721	cc_onco618	1938	1941	VIH	
+species:ncbi:33090	cc_onco622	1561	1567	planta	
+species:ncbi:91061	cc_onco622	2777	2787	de bacilos	
+species:ncbi:1639	cc_onco622	2854	2876	Listeria monocytogenes	
+species:ncbi:1639	cc_onco622	2962	2984	Listeria monocytogenes	
+species:ncbi:33090	cc_onco622	3354	3360	planta	
+species:ncbi:33090	cc_onco622	4367	4373	planta	
+species:ncbi:47187	cc_onco626	1229	1244	piel de naranja	
+species:ncbi:1903720	cc_onco628	1606	1612	bacilo	
+species:ncbi:10140	cc_onco630	3713	3717	cuya	
+species:ncbi:33090	cc_onco635	470	476	planta	
+species:ncbi:1313	cc_onco64	5238	5247	neumococo	
+species:ncbi:210	cc_onco640	585	604	Helicobacter pylori	
+species:ncbi:10140	cc_onco640	3755	3759	cuya	
+species:ncbi:33090	cc_onco640	8787	8793	planta	
+species:ncbi:33090	cc_onco642	4527	4533	planta	
+species:ncbi:3554	cc_onco644	2817	2821	beta	
+species:ncbi:33090	cc_onco647	3407	3413	planta	
+species:ncbi:3554	cc_onco649	469	473	beta	
+species:ncbi:52132	cc_onco65	2931	2942	de Brucella	
+species:ncbi:590	cc_onco65	2945	2955	Salmonella	
+species:ncbi:10239	cc_onco651	154	159	virus	
+species:ncbi:11308	cc_onco652	3551	3568	virus de la gripe	
+species:ncbi:10325	cc_onco652	4006	4013	virus B	
+species:ncbi:33090	cc_onco653	2873	2879	planta	
+species:ncbi:10140	cc_onco656	140	144	cuya	
+species:ncbi:10140	cc_onco658	3424	3428	cuya	
+species:ncbi:136841	cc_onco658	7035	7060	de Pseudomonas aeruginosa	
+species:ncbi:1496	cc_onco659	1584	1605	Clostridium difficile	
+species:ncbi:33090	cc_onco659	2157	2163	planta	
+species:ncbi:10239	cc_onco661	2104	2109	virus	
+species:ncbi:12721	cc_onco661	2111	2114	VIH	
+species:ncbi:33090	cc_onco661	2930	2936	planta	
+species:ncbi:426484	cc_onco662	4542	4546	lisa	
+species:ncbi:10239	cc_onco665	345	350	virus	
+species:ncbi:12721	cc_onco665	3686	3689	VIH	
+species:ncbi:1506574	cc_onco665	3700	3710	Parvovirus	
+species:ncbi:10358	cc_onco665	3713	3716	CMV	
+species:ncbi:12721	cc_onco670	1297	1300	VIH	
+species:ncbi:10358	cc_onco670	1316	1319	CMV	
+species:ncbi:1506574	cc_onco670	1340	1350	parvovirus	
+species:ncbi:1351	cc_onco673	3174	3195	Enterococcus faecalis	
+species:ncbi:562	cc_onco673	3201	3217	Escherichia coli	
+species:ncbi:10239	cc_onco675	866	871	virus	
+species:ncbi:10566	cc_onco677	253	278	virus del papiloma humano	
+species:ncbi:10239	cc_onco680	1215	1220	virus	
+species:ncbi:10358	cc_onco680	1245	1248	CMV	
+species:ncbi:33090	cc_onco680	1305	1311	planta	
+species:ncbi:234	cc_onco680	3004	3012	Brucella	
+species:ncbi:83558	cc_onco680	3015	3035	Chlamydia pneumoniae	
+species:ncbi:46358	cc_onco680	3043	3056	de Bartonella	group: 0, valid: true
+species:ncbi:138	cc_onco680	3058	3066	Borrelia	group: 0, valid: true
+species:ncbi:776	cc_onco680	3068	3076	Coxiella	group: 0, valid: true
+species:ncbi:780	cc_onco680	3079	3089	Rickettsia	
+species:ncbi:1496	cc_onco685	3991	4012	Clostridium difficile	
+species:ncbi:10358	cc_onco685	4033	4036	CMV	
+species:ncbi:4751	cc_onco689	2059	2065	hongos	
+species:ncbi:3554	cc_onco690	90	94	beta	
+species:ncbi:9685	cc_onco690	194	198	gato	
+species:ncbi:36531	cc_onco690	3718	3740	micobacterias atípicas	
+species:ncbi:1773?0.9451037323384932|species:ncbi:77643?0.05489626766150678	cc_onco690	4174	4200	Mycobacterium tuberculosis	
+species:ncbi:10140	cc_onco693	2623	2627	cuya	
+species:ncbi:10239	cc_onco699	2757	2762	virus	
+species:ncbi:6191	cc_onco699	4380	4388	Fasciola	
+species:ncbi:3554	cc_onco703	3034	3038	beta	
+species:ncbi:33090	cc_onco705	2804	2810	planta	
+species:ncbi:33090	cc_onco705	4975	4981	planta	
+species:ncbi:33090	cc_onco705	6743	6749	planta	
+species:ncbi:33090	cc_onco705	6786	6792	planta	
+species:ncbi:33090	cc_onco709	3747	3753	planta	
+species:ncbi:3554	cc_onco709	3807	3811	beta	
+species:ncbi:12721	cc_onco710	54	57	VIH	
+species:ncbi:12721	cc_onco710	1650	1653	VIH	
+species:ncbi:1496	cc_onco712	4336	4357	Clostridium difficile	
+species:ncbi:1496	cc_onco712	5600	5621	Clostridium difficile	
+species:ncbi:33090	cc_onco714	3679	3685	planta	
+species:ncbi:121222	cc_onco719	5832	5840	pedículo	
+species:ncbi:10358	cc_onco719	6345	6348	CMV	
+species:ncbi:10358	cc_onco719	6362	6365	CMV	
+species:ncbi:33090	cc_onco719	7160	7166	planta	
+species:ncbi:1496	cc_onco719	7296	7317	Clostridium difficile	
+species:ncbi:33090	cc_onco719	7390	7396	planta	
+species:ncbi:1506	cc_onco719	7820	7834	de Clostridium	
+species:ncbi:10358	cc_onco719	7899	7902	CMV	
+species:ncbi:10358	cc_onco719	7927	7930	CMV	
+species:ncbi:121222	cc_onco719	8467	8475	pedículo	
+species:ncbi:5476	cc_onco727	3652	3668	Candida albicans	
+species:ncbi:33090	cc_onco728	2271	2277	planta	
+species:ncbi:9225	cc_onco729	2750	2753	Ara	
+species:ncbi:3554	cc_onco73	2507	2511	beta	
+species:ncbi:10239	cc_onco730	6243	6248	virus	
+species:ncbi:33090	cc_onco734	89	95	planta	
+species:ncbi:10407	cc_onco735	236	259	virus de la hepatitis B	
+species:ncbi:210	cc_onco737	276	295	Helicobacter pylori	
+species:ncbi:10239	cc_onco737	3138	3143	virus	
+species:ncbi:10140	cc_onco737	4342	4346	cuya	
+species:ncbi:426484	cc_onco739	1252	1256	lisa	
+species:ncbi:3554	cc_onco74	3845	3849	beta	
+species:ncbi:176063	cc_onco740	2014	2017	Eos	
+species:ncbi:1496	cc_onco740	5984	6005	Clostridium difficile	
+species:ncbi:33090	cc_onco745	167	173	planta	
+species:ncbi:9796	cc_onco745	3685	3692	caballo	
+species:ncbi:33090	cc_onco749	4543	4549	planta	
+species:ncbi:9822	cc_onco75	3438	3441	Sus	
+species:ncbi:33090	cc_onco75	3812	3818	planta	
+species:ncbi:33090	cc_onco75	5960	5966	planta	
+species:ncbi:3554	cc_onco751	1222	1226	beta	
+species:ncbi:3554	cc_onco751	1998	2002	beta	
+species:ncbi:3554	cc_onco751	2821	2825	beta	
+species:ncbi:3554	cc_onco751	3528	3532	beta	
+species:ncbi:33090	cc_onco758	1757	1763	planta	
+species:ncbi:10140	cc_onco758	1906	1910	cuya	
+species:ncbi:4090	cc_onco759	93	99	tabaco	
+species:ncbi:3554	cc_onco76	2432	2436	beta	
+species:ncbi:3554	cc_onco76	2512	2516	beta	
+species:ncbi:12721	cc_onco76	2667	2670	VIH	
+species:ncbi:10358	cc_onco762	3340	3343	CMV	
+species:ncbi:1496	cc_onco763	3123	3144	Clostridium difficile	
+species:ncbi:10239	cc_onco763	3180	3185	virus	
+species:ncbi:33090	cc_onco764	2667	2673	planta	
+species:ncbi:3554	cc_onco768	1180	1184	beta	
+species:ncbi:33090	cc_onco768	2743	2749	planta	
+species:ncbi:3554	cc_onco768	4123	4127	beta	
+species:ncbi:33090	cc_onco772	2322	2328	planta	
+species:ncbi:9796	cc_onco772	2742	2749	caballo	
+species:ncbi:33090	cc_onco772	6335	6341	planta	
+species:ncbi:4754	cc_onco772	8100	8120	Pneumocystis carinii	
+species:ncbi:33090	cc_onco772	8388	8394	planta	
+species:ncbi:12721	cc_onco774	3503	3506	VIH	
+species:ncbi:10239	cc_onco774	3518	3523	virus	
+species:ncbi:3554	cc_onco774	3552	3556	beta	
+species:ncbi:1496	cc_onco774	5977	5998	Clostridium difficile	
+species:ncbi:12721	cc_onco776	594	597	VIH	
+species:ncbi:2706	cc_onco778	3805	3812	cítrico	
+species:ncbi:9606	cc_onco779	2117	2123	hombre	
+species:ncbi:9844	cc_onco781	3496	3501	llama	
+species:ncbi:5482	cc_onco782	3612	3630	Candida tropicalis	
+species:ncbi:10239	cc_onco786	958	963	virus	
+species:ncbi:9606	cc_onco791	25	31	hombre	
+species:ncbi:6893	cc_onco793	1947	1953	arañas	
+species:ncbi:33090	cc_onco793	4577	4583	planta	
+species:ncbi:9796	cc_onco797	3009	3016	caballo	
+species:ncbi:33090	cc_onco797	4427	4433	planta	
+species:ncbi:287	cc_onco797	4545	4567	Pseudomonas aeruginosa	
+species:ncbi:1280	cc_onco797	4570	4591	Staphylococcus aureus	
+species:ncbi:2	cc_onco798	3790	3799	bacterias	
+species:ncbi:4751	cc_onco798	3820	3826	hongos	
+species:ncbi:4830	cc_onco798	3999	4004	Mucor	group: 0, valid: true
+species:ncbi:4842	cc_onco798	4006	4014	Rhizopus	group: 0, valid: true
+species:ncbi:5506	cc_onco798	4021	4029	Fusarium	
+species:ncbi:41687	cc_onco798	4944	4956	Scedosporium	
+species:ncbi:1496	cc_onco80	5426	5447	Clostridium difficile	
+species:ncbi:10358	cc_onco80	6294	6309	citomegalovirus	
+species:ncbi:10358	cc_onco80	6311	6314	CMV	
+species:ncbi:10358	cc_onco80	6507	6510	CMV	
+species:ncbi:12721	cc_onco80	6617	6620	VIH	
+species:ncbi:10090	cc_onco800	4758	4763	ratón	
+species:ncbi:4090	cc_onco802	68	74	tabaco	
+species:ncbi:9844	cc_onco802	1980	1985	llama	
+species:ncbi:3554	cc_onco805	439	443	beta	
+species:ncbi:33090	cc_onco805	2693	2699	planta	
+species:ncbi:33090	cc_onco805	2743	2749	planta	
+species:ncbi:33090	cc_onco805	10407	10413	planta	
+species:ncbi:9606	cc_onco808	712	718	humano	
+species:ncbi:33090	cc_onco808	2525	2531	planta	
+species:ncbi:9796	cc_onco808	3600	3607	caballo	
+species:ncbi:33090	cc_onco809	3419	3425	planta	
+species:ncbi:1821	cc_onco809	4374	4385	de Nocardia	
+species:ncbi:1817	cc_onco809	4595	4603	Nocardia	
+species:ncbi:1817	cc_onco809	4877	4885	Nocardia	
+species:ncbi:4909	cc_onco81	4188	4202	Candida krusei	
+species:ncbi:33090	cc_onco812	1493	1499	planta	
+species:ncbi:33090	cc_onco812	3064	3070	planta	
+species:ncbi:1313	cc_onco812	3693	3702	neumococo	
+species:ncbi:445	cc_onco812	3705	3715	Legionella	
+species:ncbi:12721	cc_onco812	3852	3855	VIH	
+species:ncbi:3554	cc_onco814	931	935	beta	
+species:ncbi:209	cc_onco818	132	144	Helicobacter	
+species:ncbi:10239	cc_onco818	3639	3644	virus	
+species:ncbi:33090	cc_onco818	4795	4801	planta	
+species:ncbi:4090	cc_onco823	116	122	tabaco	
+species:ncbi:9606	cc_onco828	2934	2940	hombre	
+species:ncbi:12721	cc_onco828	6455	6491	virus de la inmunodeficiencia humana	
+species:ncbi:10140	cc_onco830	2232	2236	cuya	
+species:ncbi:10140	cc_onco833	2913	2917	cuya	
+species:ncbi:1773?0.9451037323384932|species:ncbi:77643?0.05489626766150678	cc_onco833	3051	3077	Mycobacterium tuberculosis	
+species:ncbi:12721	cc_onco835	109	112	VIH	
+species:ncbi:5476	cc_onco839	2294	2310	Candida albicans	
+species:ncbi:10140	cc_onco84	5917	5921	cuya	
+species:ncbi:10239	cc_onco842	3599	3604	virus	
+species:ncbi:10239	cc_onco842	3656	3661	virus	
+species:ncbi:10239	cc_onco842	3731	3736	virus	
+species:ncbi:10239	cc_onco842	3788	3793	virus	
+species:ncbi:12091	cc_onco842	4617	4644	del virus de la hepatitis A	
+species:ncbi:33090	cc_onco843	4136	4142	planta	
+species:ncbi:3554	cc_onco845	1318	1322	beta	
+species:ncbi:33090	cc_onco847	5344	5350	planta	
+species:ncbi:33090	cc_onco848	3866	3872	planta	
+species:ncbi:33090	cc_onco849	5377	5383	planta	
+species:ncbi:47187	cc_onco85	1794	1809	piel de naranja	
+species:ncbi:33090	cc_onco852	3193	3199	planta	
+species:ncbi:33090	cc_onco852	4038	4044	planta	
+species:ncbi:33090	cc_onco853	1095	1101	planta	
+species:ncbi:33090	cc_onco858	2000	2006	planta	
+species:ncbi:1496	cc_onco858	6629	6650	Clostridium difficile	
+species:ncbi:1496	cc_onco858	7356	7377	Clostridium difficile	
+species:ncbi:33090	cc_onco858	9354	9360	planta	
+species:ncbi:121222	cc_onco859	2440	2448	pedículo	
+species:ncbi:1506574	cc_onco862	1637	1647	parvovirus	
+species:ncbi:33090	cc_onco866	3066	3072	planta	
+species:ncbi:10140	cc_onco87	45	49	cuya	
+species:ncbi:10407	cc_onco872	372	395	virus de la hepatitis B	
+species:ncbi:10407	cc_onco872	397	400	VHB	abbrev main (virus de la hepatitis B)
+species:ncbi:10407	cc_onco872	3503	3506	VHB	abbrev sec
+species:ncbi:550	cc_onco872	4032	4052	Enterobacter cloacae	
+species:ncbi:562	cc_onco872	4067	4083	Escherichia coli	
+species:ncbi:10239	cc_onco872	5075	5080	virus	
+species:ncbi:10358	cc_onco872	5133	5148	citomegalovirus	
+species:ncbi:10358	cc_onco872	5150	5153	CMV	
+species:ncbi:10358	cc_onco872	5271	5274	CMV	
+species:ncbi:10407	cc_onco872	5401	5404	VHB	abbrev sec
+species:ncbi:4751	cc_onco872	6944	6950	hongos	
+species:ncbi:10358	cc_onco872	6994	6997	CMV	
+species:ncbi:33090	cc_onco874	2012	2018	planta	
+species:ncbi:1496	cc_onco874	3327	3348	Clostridium difficile	
+species:ncbi:562	cc_onco874	3444	3460	Escherichia coli	
+species:ncbi:33090	cc_onco875	3296	3302	planta	
+species:ncbi:445	cc_onco879	2467	2477	Legionella	
+species:ncbi:9606	cc_onco88	25	31	hombre	
+species:ncbi:9822	cc_onco880	361	364	Sus	
+species:ncbi:570	cc_onco886	3034	3044	Klebsiella	
+species:ncbi:286	cc_onco886	3154	3165	Pseudomonas	
+species:ncbi:1280	cc_onco886	3168	3189	Staphylococcus aureus	
+species:ncbi:4751	cc_onco886	3246	3252	hongos	
+species:ncbi:746128	cc_onco886	4973	4994	Aspergillus fumigatus	
+species:ncbi:33090	cc_onco887	1784	1790	planta	
+species:ncbi:1313	cc_onco887	2660	2669	neumococo	
+species:ncbi:445	cc_onco887	2672	2682	Legionella	
+species:ncbi:33090	cc_onco887	2716	2722	planta	
+species:ncbi:10358	cc_onco887	2783	2786	CMV	
+species:ncbi:10239	cc_onco887	3445	3450	virus	
+species:ncbi:46472	cc_onco887	4386	4408	Aspergillus versicolor	
+species:ncbi:46472	cc_onco887	5056	5078	Aspergillus versicolor	
+species:ncbi:46472	cc_onco887	5597	5619	Aspergillus versicolor	
+species:ncbi:42068	cc_onco891	3989	4011	Pneumocystis jirovecii	
+species:ncbi:4753	cc_onco891	4257	4269	Pneumocystis	
+species:ncbi:5476	cc_onco891	4736	4752	Candida albicans	
+species:ncbi:445	cc_onco891	4777	4787	Legionella	
+species:ncbi:42068	cc_onco891	4790	4812	Pneumocystis jirovecii	
+species:ncbi:10239	cc_onco892	3076	3081	virus	
+species:ncbi:10358	cc_onco892	3142	3157	citomegalovirus	
+species:ncbi:10239	cc_onco892	3173	3178	virus	
+species:ncbi:10239	cc_onco892	3241	3246	virus	
+species:ncbi:205379	cc_onco892	4111	4119	artemisa	
+species:ncbi:205379	cc_onco892	4520	4528	artemisa	
+species:ncbi:205379	cc_onco892	5076	5084	artemisa	
+species:ncbi:205379	cc_onco892	5263	5271	artemisa	
+species:ncbi:10140	cc_onco894	3105	3109	cuya	
+species:ncbi:4753	cc_onco895	5553	5565	Pneumocystis	
+species:ncbi:5052	cc_onco895	5898	5912	de Aspergillus	
+species:ncbi:10358	cc_onco895	5923	5926	CMV	
+species:ncbi:1313	cc_onco895	5975	5984	neumococo	
+species:ncbi:445	cc_onco895	5987	5997	Legionella	
+species:ncbi:9606	cc_onco896	25	31	hombre	
+species:ncbi:1239057	cc_onco896	440	444	varo	
+species:ncbi:3554	cc_onco901	1259	1263	beta	
+species:ncbi:12721	cc_onco901	1442	1445	VIH	
+species:ncbi:10358	cc_onco901	1461	1464	CMV	
+species:ncbi:1506574	cc_onco901	1485	1495	parvovirus	
+species:ncbi:5338	cc_onco905	3458	3463	hongo	
+species:ncbi:4842	cc_onco905	3491	3499	Rhizopus	
+species:ncbi:4830	cc_onco905	4042	4050	de Mucor	
+species:ncbi:10566	cc_onco907	1965	1968	HPV	
+species:ncbi:9844	cc_onco907	4473	4478	llama	
+species:ncbi:12721	cc_onco908	1879	1882	VIH	
+species:ncbi:33090	cc_onco908	3240	3246	planta	
+species:ncbi:42068	cc_onco908	3716	3738	Pneumocystis jirovecii	
+species:ncbi:1817	cc_onco908	4097	4105	Nocardia	
+species:ncbi:1817	cc_onco908	4178	4186	Nocardia	
+species:ncbi:1903720	cc_onco909	1724	1731	bacilos	
+species:ncbi:12721	cc_onco909	1953	1956	VIH	
+species:ncbi:42068	cc_onco909	9291	9313	Pneumocystis jirovecii	
+species:ncbi:10239	cc_onco909	9334	9339	virus	
+species:ncbi:1903720	cc_onco91	1899	1906	bacilos	
+species:ncbi:33090	cc_onco911	2874	2880	planta	
+species:ncbi:33090	cc_onco911	3152	3158	planta	
+species:ncbi:33090	cc_onco911	5872	5878	planta	
+species:ncbi:33090	cc_onco911	8313	8319	planta	
+species:ncbi:33090	cc_onco913	3571	3577	planta	
+species:ncbi:1338	cc_onco920	2180	2205	Streptococcus intermedius	
+species:ncbi:33090	cc_onco920	3624	3630	planta	
+species:ncbi:1282	cc_onco920	4239	4265	Staphylococcus epidermidis	
+species:ncbi:1338	cc_onco920	4463	4488	Streptococcus intermedius	
+species:ncbi:3554	cc_onco922	1597	1601	beta	
+species:ncbi:5206	cc_onco922	3169	3181	Cryptococcus	
+species:ncbi:12721	cc_onco922	3330	3333	VIH	
+species:ncbi:5206	cc_onco922	4668	4680	Cryptococcus	
+species:ncbi:12721	cc_onco922	4707	4710	VIH	
+species:ncbi:10358	cc_onco922	4731	4734	CMV	
+species:ncbi:12721	cc_onco922	5109	5112	VIH	
+species:ncbi:50557	cc_onco924	1488	1495	insecto	
+species:ncbi:9606	cc_onco925	2025	2031	hombre	
+species:ncbi:12721	cc_onco926	48	51	VIH	
+species:ncbi:12721	cc_onco926	1551	1554	VIH	
+species:ncbi:2104	cc_onco926	1594	1615	Mycoplasma pneumoniae	
+species:ncbi:445	cc_onco926	1626	1636	Legionella	
+species:ncbi:810	cc_onco926	1647	1656	Chlamydia	
+species:ncbi:9796	cc_onco927	1672	1679	caballo	
+species:ncbi:1280	cc_onco927	2825	2846	Staphylococcus aureus	
+species:ncbi:1280	cc_onco927	4168	4189	Staphylococcus aureus	
+species:ncbi:1280	cc_onco927	4747	4768	Staphylococcus aureus	
+species:ncbi:727	cc_onco93	4944	4966	Haemophilus influenzae	
+species:ncbi:33090	cc_onco932	4267	4273	planta	
+species:ncbi:33090	cc_onco933	3823	3829	planta	
+species:ncbi:82518	cc_onco933	5000	5022	Trichosporon jirovecii	
+species:ncbi:12092	cc_onco935	2511	2528	virus hepatitis A	
+species:ncbi:10239	cc_onco935	2678	2683	virus	
+species:ncbi:10358	cc_onco935	2716	2731	citomegalovirus	
+species:ncbi:12721	cc_onco935	2766	2769	VIH	
+species:ncbi:9844	cc_onco938	2624	2629	llama	
+species:ncbi:4679	cc_onco939	2026	2033	cebolla	
+species:ncbi:4679	cc_onco939	2432	2439	cebolla	
+species:ncbi:33090	cc_onco94	568	574	planta	
+species:ncbi:10239	cc_onco94	2307	2312	virus	
+species:ncbi:9606	cc_onco94	2313	2319	humano	
+species:ncbi:37296	cc_onco94	2323	2328	HHV-8	
+species:ncbi:121222	cc_onco940	3755	3763	pedículo	
+species:ncbi:1338	cc_onco940	4804	4829	Streptococcus intermedius	
+species:ncbi:33090	cc_onco945	3730	3736	planta	
+species:ncbi:1313	cc_onco945	3983	3992	neumococo	
+species:ncbi:21024	cc_onco945	5089	5093	haya	
+species:ncbi:10140	cc_onco945	7079	7083	cuya	
+species:ncbi:445	cc_onco947	3725	3735	Legionella	
+species:ncbi:1903720	cc_onco947	3743	3750	bacilos	
+species:ncbi:10239	cc_onco947	3805	3810	virus	
+species:ncbi:11118	cc_onco947	3845	3859	de coronavirus	
+species:ncbi:5740	cc_onco947	4010	4020	de Giardia	
+species:ncbi:5759	cc_onco947	4033	4054	Entamoeba histolytica	
+species:ncbi:5806	cc_onco947	4057	4072	Cryptosporidium	
+species:ncbi:83558	cc_onco947	4145	4169	Chlamydophila pneumoniae	
+species:ncbi:33090	cc_onco95	2065	2071	planta	
+species:ncbi:4753	cc_onco95	2481	2493	Pneumocystis	
+species:ncbi:3554	cc_onco95	2641	2645	beta	
+species:ncbi:33090	cc_onco95	2703	2709	planta	
+species:ncbi:10239	cc_onco951	413	418	virus	
+species:ncbi:12721	cc_onco951	419	422	VIH	
+species:ncbi:10140	cc_onco951	911	915	cuya	
+species:ncbi:33090	cc_onco954	2622	2628	planta	
+species:ncbi:12721	cc_onco955	2504	2507	VIH	
+species:ncbi:3554	cc_onco955	2689	2693	beta	
+species:ncbi:1301	cc_onco956	161	174	Streptococcus	
+species:ncbi:33090	cc_onco956	249	255	planta	
+species:ncbi:1305	cc_onco956	1213	1236	Streptococcus sanguinis	
+species:ncbi:1305	cc_onco956	1422	1445	Streptococcus sanguinis	
+species:ncbi:12721	cc_onco957	2044	2047	VIH	group: 0, valid: true
+species:ncbi:10358	cc_onco957	2049	2052	CMV	group: 0, valid: true
+species:ncbi:10140	cc_onco957	3048	3052	cuya	
+species:ncbi:12721	cc_onco957	3119	3122	VIH	
+species:ncbi:9844	cc_onco967	1536	1541	llama	
+species:ncbi:33090	cc_onco967	2776	2782	planta	
+species:ncbi:9822	cc_onco969	3757	3760	Sus	
+species:ncbi:4090	cc_onco97	218	224	tabaco	
+species:ncbi:168345	cc_onco97	886	896	heliotropo	
+species:ncbi:727	cc_onco97	2225	2247	Haemophilus influenzae	
+species:ncbi:727	cc_onco97	3641	3663	Haemophilus influenzae	
+species:ncbi:33090	cc_onco97	4231	4237	planta	
+species:ncbi:1282	cc_onco972	2997	3023	Staphylococcus epidermidis	
+species:ncbi:1282	cc_onco972	3025	3027	SE	abbrev main (Staphylococcus epidermidis)
+species:ncbi:33090	cc_onco972	3768	3774	planta	
+species:ncbi:1282	cc_onco972	4847	4873	Staphylococcus epidermidis	
+species:ncbi:1282	cc_onco972	5030	5032	SE	abbrev sec
+species:ncbi:1282	cc_onco972	5694	5696	SE	abbrev sec
+species:ncbi:33090	cc_onco978	2327	2333	planta	
+species:ncbi:10140	cc_onco978	4097	4101	cuya	
+species:ncbi:33090	cc_onco978	4843	4849	planta	
+species:ncbi:3554	cc_onco979	1426	1430	beta	
+species:ncbi:33090	cc_onco980	1226	1232	planta	
+species:ncbi:4090	cc_onco981	204	210	tabaco	
+species:ncbi:662032	cc_onco982	299	304	perro	
+species:ncbi:10140	cc_onco983	596	600	cuya	
+species:ncbi:10239	cc_onco985	5094	5099	virus	
+species:ncbi:234	cc_onco985	5147	5155	Brucella	group: 0, valid: true
+species:ncbi:776	cc_onco985	5157	5165	Coxiella	group: 0, valid: true
+species:ncbi:42068	cc_onco985	5538	5560	Pneumocystis jirovecii	
+species:ncbi:10239	cc_onco987	5646	5651	virus	
+species:ncbi:10358	cc_onco987	5685	5700	citomegalovirus	
+species:ncbi:3554	cc_onco988	3128	3132	beta	
+species:ncbi:223730	cc_onco989	4353	4362	Cleopatra	
+species:ncbi:47187	cc_onco99	589	604	piel de naranja	
+species:ncbi:9796	cc_onco990	629	636	caballo	
+species:ncbi:9796	cc_onco990	1046	1053	caballo	
+species:ncbi:33090	cc_onco990	3682	3688	planta	
+species:ncbi:9606	cc_onco992	25	31	hombre	
+species:ncbi:10566	cc_onco992	648	673	virus del papiloma humano	
+species:ncbi:10566	cc_onco992	2529	2554	virus del papiloma humano	
+species:ncbi:33090	cc_onco993	2940	2946	planta	
+species:ncbi:1639	cc_onco993	4375	4397	Listeria monocytogenes	
+species:ncbi:1639	cc_onco993	4564	4586	Listeria monocytogenes	
+species:ncbi:33090	cc_onco994	1662	1668	planta	
+species:ncbi:33090	cc_onco997	1000	1006	planta	
+species:ncbi:10358	cc_onco997	1185	1188	CMV	
+species:ncbi:780	cc_onco997	1275	1285	Rickettsia	group: 0, valid: true
+species:ncbi:160	cc_onco997	1287	1305	Treponema pallidum	group: 0, valid: true
+species:ncbi:773	cc_onco997	1307	1317	Bartonella	group: 0, valid: true
+species:ncbi:5833	cc_onco997	1320	1341	Plasmodium falciparum	
+species:ncbi:12721	cc_onco997	1351	1354	VIH	
+species:ncbi:1773?0.9451037323384932|species:ncbi:77643?0.05489626766150678	cc_onco997	1840	1866	Mycobacterium tuberculosis	
+species:ncbi:37296	cc_onco997	2389	2394	HHV-8	
+species:ncbi:12721	cc_onco997	2459	2462	VIH	
+species:ncbi:10358	cc_onco997	2543	2546	CMV	
+species:ncbi:9844	cc_onco997	3665	3670	llama	
+species:ncbi:121222	cc_onco999	3726	3734	pedículo	
